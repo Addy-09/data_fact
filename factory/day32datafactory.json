@@ -1,0 +1,15 @@
+{
+	"name": "day32datafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e6ba28e2-1b2b-4ea5-b347-92e86961cf22",
+		"tenantId": "8887f694-09ef-44d2-a391-d352aa21b3d6"
+	}
+}
